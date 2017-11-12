@@ -1,0 +1,12 @@
+flask
+packaging
+oauth2client
+redis
+passlib
+flask-httpauth
+sqlalchemy
+flask-sqlalchemy
+psycopg2
+bleach
+requests
+virtualenv
